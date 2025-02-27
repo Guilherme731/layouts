@@ -1,0 +1,30 @@
+.azul{
+    background-color: rgb(56, 56, 252);
+    padding: 50px;
+    margin: 10px;
+    width: 360px;
+}
+
+.amarelo{
+    background-color: rgb(255, 238, 0);
+    padding: 50px;
+    margin: 10px;
+    
+}
+.tamanho2lateral{
+    padding-left: 120px;
+}
+.tamanho2altura{
+    padding-top: 120px;
+}
+
+.flex{
+    display: flex;
+}
+
+.amarelomargemmaior{
+    background-color: rgb(255, 238, 0);
+    padding: 50px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
